@@ -1,0 +1,31 @@
+body {
+	background-color: #efefef;
+	text-align: center;
+}
+
+.menu {
+	display: inline-block;
+	margin-bottom: 20px;
+}
+
+.clearing-div {
+	clear: both;
+}
+
+.menu-item {
+	display: inline-block;
+	padding: 5px 30px 5px 30px;
+	font-weight: bold;
+	border: 2px solid grey;
+	border-radius: 5px;
+	text-align: center;
+}
+
+div.table-centered {
+	padding: 20px;
+	display: inline-block;
+}
+
+div.table-centered thead {
+	font-weight: bold;
+}
